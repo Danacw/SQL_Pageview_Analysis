@@ -1,6 +1,6 @@
 # SQL_Pageview_Analysis
 
-A SQL analysis of pageviews and click rates for a ficticious website. 
+A SQL analysis of pageviews and click rates for a fictitious website. 
 
 Results are returned on the following key performance indictators:
 - Top performing content titles based on pageviews
